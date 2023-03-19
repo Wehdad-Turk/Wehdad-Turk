@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wehdad-Turk
 - 👀 I’m interested in data Science
-- 🌱 I’m currently learning Master in Data Science
+- 🌱 I’m currently Pursuing Master in Data Science
 - 💞️ I’m looking to collaborate on data science project
 - 📫 How to reach me through gmail
 

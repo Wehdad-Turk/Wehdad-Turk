@@ -11,12 +11,54 @@
   - [**kaggle**]()
   - [**W3 School**]()'
  
- ## My Education
+ ## Skills
+ 
+ ### Languages
+ *  **Python**
+ *  **R**
+ *  **SQL**
+ *  **C++**
+ *  **HTML**
+ *  **Latex**
+ *  
+ ### Database
+ *  **MySQL**
+ *  **MongoDB**
+ *  **Google Big Query**
+ 
+ ### Technical Skills
+ *  **Machine Learning**
+ *  **Data Analytics**
+ *  **Web Scrapping**
+ *  **Data Processing**
+ *  **Statistics**
+ *  **Time Series Analysis**
+ *  **Big Data**
+ *  **Multivariate Analysis**
+ *  **Marketing Research**
+ *  **Bayesian Data Analysis**
+ *  **Data Visualization**
+ *  **Data Collection**
+ *  **Critical Thinking**
+ *  **Structured Thinking**
+ *  **Linear Algebra**
+ *  **Mathematics (Advanced)**
+ 
+ ### Tools and Softwares
+ *  **SPSS**
+ *  **MS Excel**
+ *  **MS Word**
+ *  **MS Powerpoint**
+ *  **Minitab**
+ *  **Tora**
+ *  **Mathematica**
+ 
+## My Education
  
 | **Class**    | **Specialization** | **Institute**                      | **Marks** |
 | -------------| ------------------ | ---------------------------------- | ----------|
 | M.Sc.        | Data Science       | Aligarh Muslim University, Aligarh | Awaited   |
 | M.Sc.        | Mathematics        | Jamia Millia Islamia, Delhi        | 82%       |
-| B.Sc.        | Mathematics        | university of Delhi, Delhi         | 8.179/10  |
+| B.Sc.        | Mathematics        | University of Delhi, Delhi         | 8.179/10  |
 | Intermediate | PCM                | U.P. Board                         | 86.4%     |
 | High School  |  -------------     | U.P. Board                         | 79%       |

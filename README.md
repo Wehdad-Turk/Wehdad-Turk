@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohammad Wehdad Alam
 - 👀 I’m looking for **Data Scientist**, **Data Analyst**, **Machine Learning Engineer** Jobs.
-- 🌱 I am recently graduate in **Master** in **Data Science** from **Aligarh Muslim University**, Aligarh, U.P. India (202002)
+- 🌱 I am a recent graduate in **Master** in **Data Science** from **Aligarh Muslim University**, Aligarh, U.P. India (202002)
 - 💞️ I’m looking to collaborate on **Data Science Projects**
 - 📫 How to reach me through 
   - **G-mail: wehdad92@gmail.com** 

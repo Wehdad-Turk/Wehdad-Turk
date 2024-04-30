@@ -57,7 +57,7 @@
  
 | **Class**    | **Specialization** | **Institute**                      | **Marks** |
 | -------------| ------------------ | ---------------------------------- | ----------|
-| M.Sc.        | Data Science       | Aligarh Muslim University, Aligarh | Awaited   |
+| M.Sc.        | Data Science       | Aligarh Muslim University, Aligarh | 84.7%     |
 | M.Sc.        | Mathematics        | Jamia Millia Islamia, Delhi        | 82%       |
 | B.Sc.        | Mathematics        | University of Delhi, Delhi         | 8.179/10  |
 | Intermediate | PCM                | U.P. Board                         | 86.4%     |

@@ -6,7 +6,7 @@
   - **G-mail: wehdad92@gmail.com** 
   - **G-mail: gn0756@myamu.ac.in**
   - [**LinkedIn**](https://www.linkedin.com/in/wehdad-alam-037062212/)
-  - [**Hackerrank**]()
+  - [**Hackerrank**](https://www.hackerrank.com/profile/wehdad92)
   - [**My Resume**]()
   - [**kaggle**]()
   - [**W3 School**]()'
